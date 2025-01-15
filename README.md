@@ -10,12 +10,19 @@ O programa utiliza:
 
 ## Funcionalidades
 - Oferece 6 opções de conversão de moedas:
-  1. Peso argentino (ARS) para Real (BRL).
-  2. Boliviano (BOB) para Real (BRL).
-  3. Real (BRL) para Dólar americano (USD).
-  4. Peso chileno (CLP) para Real (BRL).
-  5. Peso colombiano (COP) para Real (BRL).
-  6. Dólar americano (USD) para Real (BRL).
+
+  1-Peso argentino (ARS) para Real (BRL).
+
+   2-Boliviano (BOB) para Real (BRL).
+
+  3-Real (BRL) para Dólar americano (USD).
+
+  4-Peso chileno (CLP) para Real (BRL).
+
+  5-Peso colombiano (COP) para Real (BRL).
+
+  6-Dólar americano (USD) para Real (BRL).
+
 - Permite a entrada do valor a ser convertido.
 - Exibe o resultado da conversão diretamente no console.
 
